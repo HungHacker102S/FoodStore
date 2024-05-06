@@ -1,0 +1,265 @@
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.csproj.AssemblyReference.cache
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.AssemblyInfoInputs.cache
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.AssemblyInfo.cs
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.csproj.CoreCompileInputs.cache
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.MvcApplicationPartsAssemblyInfo.cache
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.RazorAssemblyInfo.cache
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.RazorAssemblyInfo.cs
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\appsettings.Development.json
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.exe
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\appsettings.json
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.deps.json
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.runtimeconfig.json
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.pdb
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Azure.Core.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Azure.Identity.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Humanizer.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.CodeDom.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Memory.Data.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Text.Json.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\staticwebassets.build.json
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\staticwebassets.development.json
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\scopedcss\bundle\Project_PRN.styles.css
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.csproj.CopyComplete
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\refint\Project_PRN.dll
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.pdb
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.genruntimeconfig.cache
+D:\C Sharp Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\ref\Project_PRN.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.exe
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\staticwebassets\msbuild.Project_PRN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_PRN.props
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_PRN.props
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_PRN.props
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\scopedcss\bundle\Project_PRN.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\refint\Project_PRN.dll
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\Chuyen nganh\Semester 5\PRN211\Solution\Project_PRN\Project_PRN\obj\Debug\net6.0\ref\Project_PRN.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\appsettings.Development.json
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.exe
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\appsettings.json
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.deps.json
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.runtimeconfig.json
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Project_PRN.pdb
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Azure.Core.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Azure.Identity.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Humanizer.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.CodeDom.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.Memory.Data.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.Text.Json.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.csproj.AssemblyReference.cache
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.AssemblyInfoInputs.cache
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.AssemblyInfo.cs
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.csproj.CoreCompileInputs.cache
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.MvcApplicationPartsAssemblyInfo.cache
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.RazorAssemblyInfo.cache
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.RazorAssemblyInfo.cs
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\staticwebassets.build.json
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\staticwebassets.development.json
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\staticwebassets\msbuild.Project_PRN.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_PRN.props
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_PRN.props
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_PRN.props
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\staticwebassets.pack.json
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\scopedcss\bundle\Project_PRN.styles.css
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.csproj.CopyComplete
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\refint\Project_PRN.dll
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.pdb
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\Project_PRN.genruntimeconfig.cache
+D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\obj\Debug\net6.0\ref\Project_PRN.dll

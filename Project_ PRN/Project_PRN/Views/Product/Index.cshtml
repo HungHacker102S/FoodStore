@@ -1,0 +1,220 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Project_PRN.Models;
+
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KOF</title>
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+    <!-- MDB -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.2.0/mdb.min.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="css/style.css">
+     
+    <style>
+        .navbar-light .nav-link {
+            color: black !important;
+        }
+
+
+        form.searching-bar {
+            align-items: center;
+            width: 100%;
+            background: white;
+            display: flex;
+            border: 1px solid black;
+            border-radius: 60px;
+            padding: 10px 100px 10px 10px;
+        }
+
+            form.searching-bar input {
+                background: transparent;
+                flex: 1;
+                outline: none;
+                border: 0;
+                width: 500px;
+            }
+
+    </style>
+</head>
+
+<body>
+    <header>
+       
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light d-none d-lg-block" style="z-index: 2000;">
+            <div class="container-fluid">
+               
+                <!-- Navbar brand -->
+                <a class="navbar-brand nav-link" href="#">                   
+                    <img src="/Images/logo.svg" width="50" class="rounded-circle" alt="alt"/>                 
+                </a>
+                <button class="navbar-toggler" type="button" data-mdb-toggle="collapse"
+                    data-mdb-target="#navbarExample01" aria-controls="navbarExample01" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarExample01">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item active">
+                            <a class="nav-link" aria-current="page" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            @*<a class="nav-link" href="#category" rel="nofollow">Category</a>*@
+
+                            <form id="categoryForm" asp-controller="Product" asp-action="Category">
+                            <select class="nav-link" name="categoryId" onchange="change()">
+                                <option value="0" >Category</option>
+                                    @foreach (Category c in @ViewBag.Category)
+                                    {
+                                        @if (@ViewBag.CategoryId == c.CategoryId )
+                                        {
+                                             <option value="@c.CategoryId" selected>@c.CategoryName</option>
+                                        } else {
+                                            <option value="@c.CategoryId">@c.CategoryName</option>
+                                        }
+                                    }
+                            </select>
+                            </form>
+
+                        </li>
+                        <li class="nav-item">
+                          @* <form asp-controller="Product" asp-action="SortProduct">*@
+                            <form id="sortForm" asp-controller="Product" asp-action="SortProduct">
+                                <select name="sortChoose" onchange="sortChange()">
+                                    <option value="0">Sort</option>
+                                    <option value="1">Increase</option>
+                                    <option value="2">Decrease</option>
+                                </select>
+                            </form>
+                               
+                            
+                        </li>
+                    </ul>
+
+                    <ul class="navbar-nav me-auto mb-lg-0">
+
+                        <form asp-controller="Product" asp-action="Searching"  class="searching-bar">
+                            <input type="text" name="productName" placeholder="Enter your food for searching...">
+                            <input type="submit" hidden />
+                        </form>
+                    </ul>
+
+
+                    <ul class="navbar-nav d-flex flex-row">
+                        <li class="nav-item me-3 me-lg-0">
+                            <a class="nav-link" href="#" rel="nofollow">
+                                <span>Love Miu</span>   <img src="/images/Meo-Ngao.jpg" width="50" class="rounded-circle" alt="none" />
+                            </a>
+                        </li>
+
+                       @* <li class="nav-item me-3 me-lg-0">
+                            <a class="nav-link" href="signup.html" rel="nofollow">
+                                <span>Register</span>
+                            </a>
+                        </li>*@
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Navbar -->
+    </header>
+
+
+    <main class="mt-5">
+        <section class="text-center">
+            <div class="row">
+                
+                @foreach (Product p in @ViewBag.Product)
+                {
+                    <div class="col-sm-4 p-3">
+                        <div class="btn btn-block">
+                            <img class="img-fluid rounded" style="height:300px" src="@p.Image" /><br>
+
+                            <p class="text-center text-uppercase mt-3" style="font-size: 15px">@p.ProductName</p>
+
+                            <p style="text-align: center; font-size: 13px">
+                                Price: <span style="font-size: 13px">@p.ProductPrice$</span>
+                            </p>
+                            <p style="text-align: center; font-size: 13px">
+                                Quantity: <span style="font-size: 13px">@p.Quantity</span>
+                            </p>
+                            @if ( @p.Quantity != 0 ) {
+                                 <a asp-controller="Product" asp-action="Order" asp-route-id=@p.ProductId class="btn btn-primary">CLICK TO ORDER</a>
+                            } else {
+                                <button class="btn btn-primary" >OUT OF ORDER</button>
+                            }
+
+                        </div>
+                    </div>
+                }
+            </div>
+           
+
+        </section>
+
+
+        <!--Footer-->
+        <footer class="bg-light text-lg-start">
+            <hr class="m-0" />
+
+            <div class="text-center py-4 align-items-center">
+                <p>Follow TeamThieuNang on social media</p>
+                <a  class="btn btn-primary m-1"
+                    role="button" rel="nofollow" target="_blank">
+                    <i class="fab fa-youtube"></i>
+                </a>
+                <a  class="btn btn-primary m-1" role="button" rel="nofollow"
+                    target="_blank">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+                <a  class="btn btn-primary m-1" role="button" rel="nofollow"
+                    target="_blank">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                <a  class="btn btn-primary m-1" role="button"
+                    rel="nofollow" target="_blank">
+                    <i class="fab fa-github"></i>
+                </a>
+            </div>
+
+            <!-- Copyright -->
+            <div class="text-center p-3" style="background-color: #fff;">
+                © 2020 Copyright:
+                <a class="text-dark" >TeamThieuNang.com</a>
+            </div>
+            <!-- Copyright -->
+        </footer>
+        <!--Footer-->
+
+
+    </main>
+
+
+</body>
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.2.0/mdb.min.js"></script>
+
+<script>
+    function change(){
+        document.getElementById("categoryForm").submit();
+
+    }
+
+    function sortChange(){
+        document.getElementById("sortForm").submit();
+    }
+
+</script>
+
+</html>

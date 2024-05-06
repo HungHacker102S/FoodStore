@@ -1,0 +1,65 @@
+/* Carousel styling */
+#introCarousel,
+.carousel-inner,
+.carousel-item,
+.carousel-item.active {
+    height: 100vh;
+}
+
+.carousel-item:nth-child(1) {
+    background-image: url('/images/banner-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-item:nth-child(2) {
+    background-image: url('/images/banner-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-item:nth-child(3) {
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/78.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* Height for devices larger than 576px */
+@media (min-width: 992px) {
+    #introCarousel {
+        margin-top: -58.59px;
+    }
+
+    #introCarousel,
+    .carousel-inner,
+    .carousel-item,
+    .carousel-item.active {
+        height: 50vh;
+    }
+}
+
+.navbar .nav-link {
+    color: #fff !important;
+}
+
+ form.searching-bar{
+    align-items: center;
+    width: 100%;
+    background: white;
+
+    display: flex;
+    border: 1px solid black;
+    border-radius: 60px;
+    padding: 10px 100px 10px 10px;
+}
+
+form.searching-bar input {
+    background: transparent;
+    flex: 1;
+    outline: none;
+    border: 0;
+    width: 500px;
+}

@@ -1,0 +1,35 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Project_PRN
+build_property.RootNamespace = Project_PRN
+build_property.ProjectDir = D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\C Sharp Solution\FoodStore-PRN211\FoodStore\Project_ PRN\Project_PRN
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/C Sharp Solution/FoodStore-PRN211/FoodStore/Project_ PRN/Project_PRN/Views/Product/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C Sharp Solution/FoodStore-PRN211/FoodStore/Project_ PRN/Project_PRN/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C Sharp Solution/FoodStore-PRN211/FoodStore/Project_ PRN/Project_PRN/Views/Product/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C Sharp Solution/FoodStore-PRN211/FoodStore/Project_ PRN/Project_PRN/Views/Product/OrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxPcmRlckRldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
